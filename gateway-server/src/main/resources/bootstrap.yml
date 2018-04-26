@@ -12,10 +12,6 @@ server:
 management:
   security:
     enabled: false
-zuul:
-  routes:
-    dber-demo-service: /demo/**
-
 
 ---
 
