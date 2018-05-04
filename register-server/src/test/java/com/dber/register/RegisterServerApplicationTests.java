@@ -1,4 +1,4 @@
-package com.dber.registerserver;
+package com.dber.register;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

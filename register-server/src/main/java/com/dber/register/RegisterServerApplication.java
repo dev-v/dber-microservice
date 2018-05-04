@@ -1,4 +1,4 @@
-package com.dber.registerserver;
+package com.dber.register;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;

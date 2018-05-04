@@ -1,4 +1,4 @@
-package com.dber.configserver;
+package com.dber.config;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

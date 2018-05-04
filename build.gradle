@@ -30,6 +30,8 @@ subprojects {
 
   dependencies {
     compile("com.alibaba:fastjson:${fastjsonVersion}")
+    compile('org.apache.commons:commons-lang3:3.7')
+    compile('commons-collections:commons-collections:3.2.2')
     compile('org.springframework.boot:spring-boot-starter')
     testCompile('org.springframework.boot:spring-boot-starter-test')
   }
